@@ -14,9 +14,13 @@ AI-powered business dashboard built with Streamlit, Pandas, and OpenAI. Visualiz
 * AI: OpenAI
 # 📂 Project Structure
 yt_app/
+
 │── app.py
+
 │── requirements.txt
+
 │── .streamlit/
+
 │     └── secrets.toml
 # ⚙️ Setup & Installation
 1. Clone the repository
