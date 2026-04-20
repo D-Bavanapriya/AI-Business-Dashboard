@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-openai
+validators
+unstructured
+youtube-transcript-api
+pytube
+pandas
+groq
+openai
