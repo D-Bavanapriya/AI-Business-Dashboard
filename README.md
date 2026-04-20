@@ -21,7 +21,7 @@ yt_app/
 
 │── .streamlit/
 
-│     └── secrets.toml
+     └── secrets.toml
 # ⚙️ Setup & Installation
 1. Clone the repository
 git clone <your-repo-link>
