@@ -19,16 +19,16 @@ yt_app/
 │── .streamlit/
 │     └── secrets.toml
 # ⚙️ Setup & Installation
-Clone the repository
+1. Clone the repository
 git clone <your-repo-link>
 cd yt_app
-Create virtual environment
+2. Create virtual environment
 python -m venv .venv
 .venv\Scripts\activate
-Install dependencies
+3. Install dependencies
 pip install -r requirements.txt
-Add API key
+4. Add API key
 Create .streamlit/secrets.toml
 OPENAI_API_KEY = "your_api_key_here"
-Run the app
+5. Run the app
 streamlit run app.py
